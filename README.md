@@ -1,6 +1,6 @@
 # Corporate portal
 
-This is a REST API + WebSocket server application that represents the backend part of the corporate system. The frontend part can be found [here]()
+This is a REST API + WebSocket server application that represents the backend part of the corporate system. The frontend part can be found [here](https://github.com/satansdeer/loftschool-nodejs-project)
 
 ## DB
 
